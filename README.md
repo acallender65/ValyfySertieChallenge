@@ -1,8 +1,10 @@
-# ValyfySertieChallenge
+# Valyfy Sertie Challenge 
 
-Goals for Improvements and Additions:
+Dates: 3/2/2025 - 24/2/25
 
-General Improvements:
+## Goals for Improvements and Additions:
+
+### <ins> General Improvements: </ins>
 - [ ] Improve mobile usability
 - [ ] Add pop-up option of the definitions of jobs
 - [ ] Have an option to list jobs without having to be signed in
@@ -12,12 +14,12 @@ General Improvements:
   - [ ] Allow users to save their progress
   - [ ] Remove the need to complete every section to continue
  
-Appeal to Students:
+### <ins> Appeal to Students </ins>
 - [ ] Adding a forum and community section --> I'll try my best to make it secure
 - [ ] Personalising profile pciture --> I'll try my best to make this secure
 - [ ] Change the design of some pages to appeal to students and make it more interactive
 
-Design Improvements:
+### <ins> Design Improvements: </ins>
 - [ ] Changing the design of the welcome page and profile page to appeal to students
 - [ ] Adding the "Latest Updates" Section to somewhere more noticeable
 - [ ] Make the mentor request form more interactive
@@ -25,7 +27,7 @@ Design Improvements:
   - [ ] Have the option to sift through mentors in terms of catergories, such as industry they work in
 - [ ] Change the Academic Acheivement section --> change date to be an abbreviation of the month from the number of the month, so Feb instead of 2 to improve readibilty for users
 
-Accessibility:
+### <ins> Accessibility: </ins>
 - [ ] Make sure to make any changes to the web application accessible to those who are colourblind, dyslexic and/ or autistic
   - [ ] Change format, font and font colour slightly to improve readibilty
   - [ ] Use images where needed
